@@ -57,3 +57,4 @@
 /Users/phongsavanhmongkhonvilay/Library/Mobile Documents/com~apple~CloudDocs/Desktop/FHSU/FALL 2023/Back-end Web Development II/Projects/final-project/Server/Server/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
 /Users/phongsavanhmongkhonvilay/Library/Mobile Documents/com~apple~CloudDocs/Desktop/FHSU/FALL 2023/Back-end Web Development II/Projects/final-project/Server/Server/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
 /Users/phongsavanhmongkhonvilay/Library/Mobile Documents/com~apple~CloudDocs/Desktop/FHSU/FALL 2023/Back-end Web Development II/Projects/final-project/Server/Server/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/phongsavanhmongkhonvilay/Library/Mobile Documents/com~apple~CloudDocs/Desktop/FHSU/FALL 2023/Back-end Web Development II/Projects/final-project/Server/Server/obj/Debug/net8.0/Server.sourcelink.json
